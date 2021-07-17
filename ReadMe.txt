@@ -1,0 +1,2 @@
+Schrit 1.Du must den ezfn.dev ordner in das inhalts verzeichnes von epic gehen hier  C:\Program Files\Epic Games 
+Schrit 2: Du must den den ordner per drag and drop rein schieben und auf den ordner ezfn.dev gehen und den den EzfnLauncher.exe starten und deine daten eingaben von dein ezfn account
